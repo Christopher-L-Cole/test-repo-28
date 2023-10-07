@@ -1,0 +1,1 @@
+console.log("diamonds under pressure");
